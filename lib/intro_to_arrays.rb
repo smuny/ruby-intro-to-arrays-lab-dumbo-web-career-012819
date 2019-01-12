@@ -10,3 +10,7 @@ end
 def first_element(array)
   array[0]
 end
+
+def third_element(third)
+  third[2]
+end
